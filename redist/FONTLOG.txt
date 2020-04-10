@@ -13,6 +13,7 @@ Nepomuk is a serif text font family designed for use in music notation scores, r
 
 Changelog
 ---------
+10 April 2020 (Florian Kretlow) reupload the fonts to GitHub, nothing changed.
 
 3 September 2014 (Florian Kretlow) version 0.1
 - Initial version of Nepomuk, suitable for further development by interested designers.
